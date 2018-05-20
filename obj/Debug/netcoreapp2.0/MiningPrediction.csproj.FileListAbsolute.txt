@@ -1,0 +1,33 @@
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.deps.json
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.runtimeconfig.json
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.runtimeconfig.dev.json
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.dll
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.pdb
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.csprojResolveAssemblyReference.cache
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.csproj.CoreCompileInputs.cache
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.AssemblyInfoInputs.cache
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.AssemblyInfo.cs
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.dll
+C:\Users\dt207040\source\repos\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.pdb
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.deps.json
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.runtimeconfig.json
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.runtimeconfig.dev.json
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.dll
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.pdb
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.csprojResolveAssemblyReference.cache
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.csproj.CoreCompileInputs.cache
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.AssemblyInfoInputs.cache
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.AssemblyInfo.cs
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.dll
+C:\Users\sundeepyadav\Documents\Visual Studio 2017\Projects\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.pdb
+E:\Project A\Project A\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.deps.json
+E:\Project A\Project A\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.runtimeconfig.json
+E:\Project A\Project A\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.runtimeconfig.dev.json
+E:\Project A\Project A\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.dll
+E:\Project A\Project A\MiningPrediction\MiningPrediction\bin\Debug\netcoreapp2.0\MiningPrediction.pdb
+E:\Project A\Project A\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.csprojResolveAssemblyReference.cache
+E:\Project A\Project A\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.csproj.CoreCompileInputs.cache
+E:\Project A\Project A\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.AssemblyInfoInputs.cache
+E:\Project A\Project A\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.AssemblyInfo.cs
+E:\Project A\Project A\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.dll
+E:\Project A\Project A\MiningPrediction\MiningPrediction\obj\Debug\netcoreapp2.0\MiningPrediction.pdb
